@@ -1,0 +1,23 @@
+# PDF files
+*.pdf
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Other common files to ignore
+*.log
+*.tmp
+*.temp
